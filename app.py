@@ -1,1 +1,1 @@
-print('hello nam cu to!')
+print('hello world!')
